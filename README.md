@@ -15,8 +15,7 @@ This project demonstrates the analysis of a phishing email using cybersecurity t
 - `sample_phishing_email.txt` – Raw email content.
 - `header_analysis.txt` – Results from email header analysis.
 - `phishing_summary.txt` – Summary of phishing indicators.
-- `screenshots/` – (Optional) Screenshots of the email and analysis tools.
-<br>
+- `screenshots/` – (Optional) Screenshots of the email and analysis tools.<br>
 <br>I include the header_analysis file, phishing_summary file and screenshots in the doc file.
 
 ## ⚠️ Disclaimer
